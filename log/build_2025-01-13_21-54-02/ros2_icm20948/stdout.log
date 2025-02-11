@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/ros2_icm20948/ros2_icm20948.egg-info
+writing ../../build/ros2_icm20948/ros2_icm20948.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros2_icm20948/ros2_icm20948.egg-info/dependency_links.txt
+writing entry points to ../../build/ros2_icm20948/ros2_icm20948.egg-info/entry_points.txt
+writing requirements to ../../build/ros2_icm20948/ros2_icm20948.egg-info/requires.txt
+writing top-level names to ../../build/ros2_icm20948/ros2_icm20948.egg-info/top_level.txt
+writing manifest file '../../build/ros2_icm20948/ros2_icm20948.egg-info/SOURCES.txt'
+reading manifest file '../../build/ros2_icm20948/ros2_icm20948.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros2_icm20948/ros2_icm20948.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/pinky/pinky_violet/build/ros2_icm20948/build
+creating /home/pinky/pinky_violet/build/ros2_icm20948/build/lib
+creating /home/pinky/pinky_violet/build/ros2_icm20948/build/lib/ros2_icm20948
+copying ros2_icm20948/__init__.py -> /home/pinky/pinky_violet/build/ros2_icm20948/build/lib/ros2_icm20948
+copying ros2_icm20948/icm20948_node.py -> /home/pinky/pinky_violet/build/ros2_icm20948/build/lib/ros2_icm20948
+running install
+running install_lib
+creating /home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages/ros2_icm20948
+copying /home/pinky/pinky_violet/build/ros2_icm20948/build/lib/ros2_icm20948/__init__.py -> /home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages/ros2_icm20948
+copying /home/pinky/pinky_violet/build/ros2_icm20948/build/lib/ros2_icm20948/icm20948_node.py -> /home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages/ros2_icm20948
+byte-compiling /home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages/ros2_icm20948/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages/ros2_icm20948/icm20948_node.py to icm20948_node.cpython-312.pyc
+running install_data
+creating /home/pinky/pinky_violet/install/ros2_icm20948/share/ament_index
+creating /home/pinky/pinky_violet/install/ros2_icm20948/share/ament_index/resource_index
+creating /home/pinky/pinky_violet/install/ros2_icm20948/share/ament_index/resource_index/packages
+copying resource/ros2_icm20948 -> /home/pinky/pinky_violet/install/ros2_icm20948/share/ament_index/resource_index/packages
+copying package.xml -> /home/pinky/pinky_violet/install/ros2_icm20948/share/ros2_icm20948
+copying launch/icm20948_node_launch.py -> /home/pinky/pinky_violet/install/ros2_icm20948/share/ros2_icm20948
+running install_egg_info
+Copying ../../build/ros2_icm20948/ros2_icm20948.egg-info to /home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages/ros2_icm20948-0.0.1-py3.12.egg-info
+running install_scripts
+Installing icm20948_node script to /home/pinky/pinky_violet/install/ros2_icm20948/lib/ros2_icm20948
+writing list of installed files to '/home/pinky/pinky_violet/build/ros2_icm20948/install.log'

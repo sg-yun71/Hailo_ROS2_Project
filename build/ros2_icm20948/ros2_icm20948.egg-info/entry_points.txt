@@ -1,0 +1,2 @@
+[console_scripts]
+icm20948_node = ros2_icm20948.icm20948_node:main

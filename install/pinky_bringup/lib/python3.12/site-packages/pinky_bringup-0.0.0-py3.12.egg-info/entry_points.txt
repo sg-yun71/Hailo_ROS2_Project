@@ -1,0 +1,2 @@
+[console_scripts]
+pinky_bringup = pinky_bringup.pinky_bringup:main

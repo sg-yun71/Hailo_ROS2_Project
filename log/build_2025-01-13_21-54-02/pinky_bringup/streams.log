@@ -1,0 +1,45 @@
+[1.524s] Invoking command in '/home/pinky/pinky_violet/src/pinky_violet/pinky_bringup': AMENT_PREFIX_PATH=/home/pinky/pinky_violet/install/ros2_icm20948:/home/pinky/pinky_violet/install/sllidar_ros2:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/pinky_navigation:/home/pinky/pinky_violet/install/pinky_gazebo:/home/pinky/pinky_violet/install/pinky_description:/home/pinky/pinky_violet/install/pinky_cartographer:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/pinky/pinky_violet/build/pinky_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages:/home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages:/home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/pinky_bringup build --build-base /home/pinky/pinky_violet/build/pinky_bringup/build install --record /home/pinky/pinky_violet/build/pinky_bringup/install.log --single-version-externally-managed install_data
+[1.919s] running egg_info
+[1.920s] creating ../../../build/pinky_bringup/pinky_bringup.egg-info
+[1.949s] writing ../../../build/pinky_bringup/pinky_bringup.egg-info/PKG-INFO
+[1.950s] writing dependency_links to ../../../build/pinky_bringup/pinky_bringup.egg-info/dependency_links.txt
+[1.950s] writing entry points to ../../../build/pinky_bringup/pinky_bringup.egg-info/entry_points.txt
+[1.950s] writing requirements to ../../../build/pinky_bringup/pinky_bringup.egg-info/requires.txt
+[1.950s] writing top-level names to ../../../build/pinky_bringup/pinky_bringup.egg-info/top_level.txt
+[1.950s] writing manifest file '../../../build/pinky_bringup/pinky_bringup.egg-info/SOURCES.txt'
+[2.009s] reading manifest file '../../../build/pinky_bringup/pinky_bringup.egg-info/SOURCES.txt'
+[2.010s] writing manifest file '../../../build/pinky_bringup/pinky_bringup.egg-info/SOURCES.txt'
+[2.011s] running build
+[2.011s] running build_py
+[2.011s] creating /home/pinky/pinky_violet/build/pinky_bringup/build
+[2.011s] creating /home/pinky/pinky_violet/build/pinky_bringup/build/lib
+[2.011s] creating /home/pinky/pinky_violet/build/pinky_bringup/build/lib/pinky_bringup
+[2.011s] copying pinky_bringup/__init__.py -> /home/pinky/pinky_violet/build/pinky_bringup/build/lib/pinky_bringup
+[2.012s] copying pinky_bringup/pinkylib.py -> /home/pinky/pinky_violet/build/pinky_bringup/build/lib/pinky_bringup
+[2.012s] copying pinky_bringup/pinky_bringup.py -> /home/pinky/pinky_violet/build/pinky_bringup/build/lib/pinky_bringup
+[2.013s] copying pinky_bringup/battery.py -> /home/pinky/pinky_violet/build/pinky_bringup/build/lib/pinky_bringup
+[2.014s] running install
+[2.024s] running install_lib
+[2.053s] creating /home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages/pinky_bringup
+[2.054s] copying /home/pinky/pinky_violet/build/pinky_bringup/build/lib/pinky_bringup/__init__.py -> /home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages/pinky_bringup
+[2.054s] copying /home/pinky/pinky_violet/build/pinky_bringup/build/lib/pinky_bringup/pinkylib.py -> /home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages/pinky_bringup
+[2.055s] copying /home/pinky/pinky_violet/build/pinky_bringup/build/lib/pinky_bringup/pinky_bringup.py -> /home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages/pinky_bringup
+[2.055s] copying /home/pinky/pinky_violet/build/pinky_bringup/build/lib/pinky_bringup/battery.py -> /home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages/pinky_bringup
+[2.055s] byte-compiling /home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages/pinky_bringup/__init__.py to __init__.cpython-312.pyc
+[2.055s] byte-compiling /home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages/pinky_bringup/pinkylib.py to pinkylib.cpython-312.pyc
+[2.059s] byte-compiling /home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages/pinky_bringup/pinky_bringup.py to pinky_bringup.cpython-312.pyc
+[2.060s] byte-compiling /home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages/pinky_bringup/battery.py to battery.cpython-312.pyc
+[2.061s] running install_data
+[2.061s] creating /home/pinky/pinky_violet/install/pinky_bringup/share/ament_index
+[2.061s] creating /home/pinky/pinky_violet/install/pinky_bringup/share/ament_index/resource_index
+[2.061s] creating /home/pinky/pinky_violet/install/pinky_bringup/share/ament_index/resource_index/packages
+[2.061s] copying resource/pinky_bringup -> /home/pinky/pinky_violet/install/pinky_bringup/share/ament_index/resource_index/packages
+[2.061s] copying package.xml -> /home/pinky/pinky_violet/install/pinky_bringup/share/pinky_bringup
+[2.062s] creating /home/pinky/pinky_violet/install/pinky_bringup/share/pinky_bringup/launch
+[2.062s] copying launch/bringup.launch.xml -> /home/pinky/pinky_violet/install/pinky_bringup/share/pinky_bringup/launch
+[2.062s] running install_egg_info
+[2.095s] Copying ../../../build/pinky_bringup/pinky_bringup.egg-info to /home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages/pinky_bringup-0.0.0-py3.12.egg-info
+[2.096s] running install_scripts
+[2.305s] Installing pinky_bringup script to /home/pinky/pinky_violet/install/pinky_bringup/lib/pinky_bringup
+[2.305s] writing list of installed files to '/home/pinky/pinky_violet/build/pinky_bringup/install.log'
+[2.403s] Invoked command in '/home/pinky/pinky_violet/src/pinky_violet/pinky_bringup' returned '0': AMENT_PREFIX_PATH=/home/pinky/pinky_violet/install/ros2_icm20948:/home/pinky/pinky_violet/install/sllidar_ros2:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/pinky_navigation:/home/pinky/pinky_violet/install/pinky_gazebo:/home/pinky/pinky_violet/install/pinky_description:/home/pinky/pinky_violet/install/pinky_cartographer:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/pinky/pinky_violet/build/pinky_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages:/home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages:/home/pinky/pinky_violet/install/pinky_bringup/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/pinky_bringup build --build-base /home/pinky/pinky_violet/build/pinky_bringup/build install --record /home/pinky/pinky_violet/build/pinky_bringup/install.log --single-version-externally-managed install_data

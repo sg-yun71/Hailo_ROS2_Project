@@ -1,0 +1,50 @@
+[0.358s] Invoking command in '/home/pinky/pinky_violet/build/pinky_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/pinky/pinky_violet/src/pinky_violet/pinky_cartographer -DCMAKE_INSTALL_PREFIX=/home/pinky/pinky_violet/install/pinky_cartographer
+[0.806s] -- The C compiler identification is GNU 13.2.0
+[1.675s] -- The CXX compiler identification is GNU 13.2.0
+[1.723s] -- Detecting C compiler ABI info
+[1.969s] -- Detecting C compiler ABI info - done
+[1.983s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.984s] -- Detecting C compile features
+[1.986s] -- Detecting C compile features - done
+[2.004s] -- Detecting CXX compiler ABI info
+[2.236s] -- Detecting CXX compiler ABI info - done
+[2.251s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.255s] -- Detecting CXX compile features
+[2.255s] -- Detecting CXX compile features - done
+[2.269s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.629s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.981s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[3.289s] -- Added test 'lint_cmake' to check CMake code style
+[3.294s] -- Added test 'xmllint' to check XML markup files
+[3.298s] -- Configuring done (2.9s)
+[3.303s] -- Generating done (0.0s)
+[3.305s] -- Build files have been written to: /home/pinky/pinky_violet/build/pinky_cartographer
+[3.319s] Invoked command in '/home/pinky/pinky_violet/build/pinky_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/pinky/pinky_violet/src/pinky_violet/pinky_cartographer -DCMAKE_INSTALL_PREFIX=/home/pinky/pinky_violet/install/pinky_cartographer
+[3.321s] Invoking command in '/home/pinky/pinky_violet/build/pinky_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/pinky/pinky_violet/build/pinky_cartographer -- -j4 -l4
+[3.412s] Invoked command in '/home/pinky/pinky_violet/build/pinky_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/pinky/pinky_violet/build/pinky_cartographer -- -j4 -l4
+[3.432s] Invoking command in '/home/pinky/pinky_violet/build/pinky_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/pinky/pinky_violet/build/pinky_cartographer
+[3.451s] -- Install configuration: ""
+[3.451s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/launch
+[3.452s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/launch/map_view.launch.xml
+[3.453s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/launch/cartographer.launch.xml
+[3.453s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/params
+[3.454s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/params/nav2_cartographer_params.lua
+[3.454s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/params/cartographer_params.lua
+[3.454s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/rviz
+[3.455s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/rviz/map_building.rviz
+[3.455s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/ament_index/resource_index/package_run_dependencies/pinky_cartographer
+[3.455s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/ament_index/resource_index/parent_prefix_path/pinky_cartographer
+[3.456s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/environment/ament_prefix_path.sh
+[3.457s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/environment/ament_prefix_path.dsv
+[3.457s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/environment/path.sh
+[3.458s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/environment/path.dsv
+[3.458s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/local_setup.bash
+[3.459s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/local_setup.sh
+[3.459s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/local_setup.zsh
+[3.459s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/local_setup.dsv
+[3.459s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/package.dsv
+[3.459s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/ament_index/resource_index/packages/pinky_cartographer
+[3.459s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/cmake/pinky_cartographerConfig.cmake
+[3.459s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/cmake/pinky_cartographerConfig-version.cmake
+[3.460s] -- Installing: /home/pinky/pinky_violet/install/pinky_cartographer/share/pinky_cartographer/package.xml
+[3.464s] Invoked command in '/home/pinky/pinky_violet/build/pinky_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/pinky/pinky_violet/build/pinky_cartographer

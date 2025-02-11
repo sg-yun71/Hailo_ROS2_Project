@@ -1,0 +1,38 @@
+[2.914s] Invoking command in '/home/pinky/pinky_violet/src/ros2_icm20948': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/pinky/pinky_violet/build/ros2_icm20948/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_icm20948 build --build-base /home/pinky/pinky_violet/build/ros2_icm20948/build install --record /home/pinky/pinky_violet/build/ros2_icm20948/install.log --single-version-externally-managed install_data
+[3.483s] running egg_info
+[3.483s] creating ../../build/ros2_icm20948/ros2_icm20948.egg-info
+[3.512s] writing ../../build/ros2_icm20948/ros2_icm20948.egg-info/PKG-INFO
+[3.512s] writing dependency_links to ../../build/ros2_icm20948/ros2_icm20948.egg-info/dependency_links.txt
+[3.512s] writing entry points to ../../build/ros2_icm20948/ros2_icm20948.egg-info/entry_points.txt
+[3.513s] writing requirements to ../../build/ros2_icm20948/ros2_icm20948.egg-info/requires.txt
+[3.513s] writing top-level names to ../../build/ros2_icm20948/ros2_icm20948.egg-info/top_level.txt
+[3.513s] writing manifest file '../../build/ros2_icm20948/ros2_icm20948.egg-info/SOURCES.txt'
+[3.586s] reading manifest file '../../build/ros2_icm20948/ros2_icm20948.egg-info/SOURCES.txt'
+[3.587s] writing manifest file '../../build/ros2_icm20948/ros2_icm20948.egg-info/SOURCES.txt'
+[3.587s] running build
+[3.587s] running build_py
+[3.587s] creating /home/pinky/pinky_violet/build/ros2_icm20948/build
+[3.587s] creating /home/pinky/pinky_violet/build/ros2_icm20948/build/lib
+[3.587s] creating /home/pinky/pinky_violet/build/ros2_icm20948/build/lib/ros2_icm20948
+[3.587s] copying ros2_icm20948/__init__.py -> /home/pinky/pinky_violet/build/ros2_icm20948/build/lib/ros2_icm20948
+[3.588s] copying ros2_icm20948/icm20948_node.py -> /home/pinky/pinky_violet/build/ros2_icm20948/build/lib/ros2_icm20948
+[3.596s] running install
+[3.607s] running install_lib
+[3.639s] creating /home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages/ros2_icm20948
+[3.639s] copying /home/pinky/pinky_violet/build/ros2_icm20948/build/lib/ros2_icm20948/__init__.py -> /home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages/ros2_icm20948
+[3.640s] copying /home/pinky/pinky_violet/build/ros2_icm20948/build/lib/ros2_icm20948/icm20948_node.py -> /home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages/ros2_icm20948
+[3.640s] byte-compiling /home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages/ros2_icm20948/__init__.py to __init__.cpython-312.pyc
+[3.641s] byte-compiling /home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages/ros2_icm20948/icm20948_node.py to icm20948_node.cpython-312.pyc
+[3.643s] running install_data
+[3.643s] creating /home/pinky/pinky_violet/install/ros2_icm20948/share/ament_index
+[3.643s] creating /home/pinky/pinky_violet/install/ros2_icm20948/share/ament_index/resource_index
+[3.643s] creating /home/pinky/pinky_violet/install/ros2_icm20948/share/ament_index/resource_index/packages
+[3.644s] copying resource/ros2_icm20948 -> /home/pinky/pinky_violet/install/ros2_icm20948/share/ament_index/resource_index/packages
+[3.644s] copying package.xml -> /home/pinky/pinky_violet/install/ros2_icm20948/share/ros2_icm20948
+[3.644s] copying launch/icm20948_node_launch.py -> /home/pinky/pinky_violet/install/ros2_icm20948/share/ros2_icm20948
+[3.646s] running install_egg_info
+[3.683s] Copying ../../build/ros2_icm20948/ros2_icm20948.egg-info to /home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages/ros2_icm20948-0.0.1-py3.12.egg-info
+[3.684s] running install_scripts
+[3.920s] Installing icm20948_node script to /home/pinky/pinky_violet/install/ros2_icm20948/lib/ros2_icm20948
+[3.923s] writing list of installed files to '/home/pinky/pinky_violet/build/ros2_icm20948/install.log'
+[4.040s] Invoked command in '/home/pinky/pinky_violet/src/ros2_icm20948' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/pinky/pinky_violet/build/ros2_icm20948/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pinky/pinky_violet/install/ros2_icm20948/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_icm20948 build --build-base /home/pinky/pinky_violet/build/ros2_icm20948/build install --record /home/pinky/pinky_violet/build/ros2_icm20948/install.log --single-version-externally-managed install_data

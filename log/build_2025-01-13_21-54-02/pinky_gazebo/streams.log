@@ -1,0 +1,63 @@
+[0.014s] Invoking command in '/home/pinky/pinky_violet/build/pinky_gazebo': CMAKE_PREFIX_PATH=/home/pinky/pinky_violet/install/pinky_description:/home/pinky/pinky_violet/install/sllidar_ros2:/home/pinky/pinky_violet/install/pinky_navigation:/home/pinky/pinky_violet/install/pinky_gazebo:/home/pinky/pinky_violet/install/pinky_cartographer:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/pinky/pinky_violet/src/pinky_violet/pinky_gazebo -DCMAKE_INSTALL_PREFIX=/home/pinky/pinky_violet/install/pinky_gazebo
+[0.182s] -- The C compiler identification is GNU 13.2.0
+[0.311s] -- The CXX compiler identification is GNU 13.2.0
+[0.341s] -- Detecting C compiler ABI info
+[0.537s] -- Detecting C compiler ABI info - done
+[0.552s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.553s] -- Detecting C compile features
+[0.553s] -- Detecting C compile features - done
+[0.571s] -- Detecting CXX compiler ABI info
+[0.789s] -- Detecting CXX compiler ABI info - done
+[0.806s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.806s] -- Detecting CXX compile features
+[0.807s] -- Detecting CXX compile features - done
+[0.814s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.101s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.321s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.539s] -- Added test 'lint_cmake' to check CMake code style
+[1.542s] -- Added test 'xmllint' to check XML markup files
+[1.545s] -- Configuring done (1.5s)
+[1.550s] -- Generating done (0.0s)
+[1.553s] -- Build files have been written to: /home/pinky/pinky_violet/build/pinky_gazebo
+[1.564s] Invoked command in '/home/pinky/pinky_violet/build/pinky_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/pinky/pinky_violet/install/pinky_description:/home/pinky/pinky_violet/install/sllidar_ros2:/home/pinky/pinky_violet/install/pinky_navigation:/home/pinky/pinky_violet/install/pinky_gazebo:/home/pinky/pinky_violet/install/pinky_cartographer:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/pinky/pinky_violet/src/pinky_violet/pinky_gazebo -DCMAKE_INSTALL_PREFIX=/home/pinky/pinky_violet/install/pinky_gazebo
+[1.564s] Invoking command in '/home/pinky/pinky_violet/build/pinky_gazebo': CMAKE_PREFIX_PATH=/home/pinky/pinky_violet/install/pinky_description:/home/pinky/pinky_violet/install/sllidar_ros2:/home/pinky/pinky_violet/install/pinky_navigation:/home/pinky/pinky_violet/install/pinky_gazebo:/home/pinky/pinky_violet/install/pinky_cartographer:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/pinky/pinky_violet/build/pinky_gazebo -- -j4 -l4
+[1.643s] Invoked command in '/home/pinky/pinky_violet/build/pinky_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/pinky/pinky_violet/install/pinky_description:/home/pinky/pinky_violet/install/sllidar_ros2:/home/pinky/pinky_violet/install/pinky_navigation:/home/pinky/pinky_violet/install/pinky_gazebo:/home/pinky/pinky_violet/install/pinky_cartographer:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/pinky/pinky_violet/build/pinky_gazebo -- -j4 -l4
+[1.644s] Invoking command in '/home/pinky/pinky_violet/build/pinky_gazebo': CMAKE_PREFIX_PATH=/home/pinky/pinky_violet/install/pinky_description:/home/pinky/pinky_violet/install/sllidar_ros2:/home/pinky/pinky_violet/install/pinky_navigation:/home/pinky/pinky_violet/install/pinky_gazebo:/home/pinky/pinky_violet/install/pinky_cartographer:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/pinky/pinky_violet/build/pinky_gazebo
+[1.659s] -- Install configuration: ""
+[1.659s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/launch
+[1.660s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/launch/nav2.launch.xml
+[1.660s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/launch/launch_sim.launch.xml
+[1.661s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/launch/cartographer.launch.xml
+[1.661s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/config
+[1.662s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/config/my_controllers.yaml
+[1.662s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/models
+[1.663s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/models/simple_building
+[1.663s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/models/simple_building/model.sdf
+[1.663s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/models/simple_building/model.config
+[1.664s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/models/.empty
+[1.665s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/models/my_world
+[1.665s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/models/my_world/model.sdf
+[1.665s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/models/my_world/model.config
+[1.666s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/worlds
+[1.666s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/worlds/my_world.world
+[1.667s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/worlds/simple_building.world
+[1.667s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/worlds/empty.world
+[1.668s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/params
+[1.668s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/params/cartographer_params.lua
+[1.669s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/params/pinky_bridge.yaml
+[1.670s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/ament_index/resource_index/package_run_dependencies/pinky_gazebo
+[1.670s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/ament_index/resource_index/parent_prefix_path/pinky_gazebo
+[1.670s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/environment/ament_prefix_path.sh
+[1.670s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/environment/ament_prefix_path.dsv
+[1.671s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/environment/path.sh
+[1.672s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/environment/path.dsv
+[1.672s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/local_setup.bash
+[1.672s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/local_setup.sh
+[1.672s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/local_setup.zsh
+[1.672s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/local_setup.dsv
+[1.673s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/package.dsv
+[1.673s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/ament_index/resource_index/packages/pinky_gazebo
+[1.673s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/cmake/pinky_gazeboConfig.cmake
+[1.673s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/cmake/pinky_gazeboConfig-version.cmake
+[1.674s] -- Installing: /home/pinky/pinky_violet/install/pinky_gazebo/share/pinky_gazebo/package.xml
+[1.678s] Invoked command in '/home/pinky/pinky_violet/build/pinky_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/pinky/pinky_violet/install/pinky_description:/home/pinky/pinky_violet/install/sllidar_ros2:/home/pinky/pinky_violet/install/pinky_navigation:/home/pinky/pinky_violet/install/pinky_gazebo:/home/pinky/pinky_violet/install/pinky_cartographer:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/pinky/pinky_violet/build/pinky_gazebo

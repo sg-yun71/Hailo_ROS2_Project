@@ -1,0 +1,54 @@
+[0.358s] Invoking command in '/home/pinky/pinky_violet/build/pinky_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/pinky/pinky_violet/src/pinky_violet/pinky_navigation -DCMAKE_INSTALL_PREFIX=/home/pinky/pinky_violet/install/pinky_navigation
+[0.800s] -- The C compiler identification is GNU 13.2.0
+[1.669s] -- The CXX compiler identification is GNU 13.2.0
+[1.717s] -- Detecting C compiler ABI info
+[1.964s] -- Detecting C compiler ABI info - done
+[1.979s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.979s] -- Detecting C compile features
+[1.980s] -- Detecting C compile features - done
+[1.999s] -- Detecting CXX compiler ABI info
+[2.230s] -- Detecting CXX compiler ABI info - done
+[2.245s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.248s] -- Detecting CXX compile features
+[2.248s] -- Detecting CXX compile features - done
+[2.262s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.636s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.975s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[3.282s] -- Added test 'lint_cmake' to check CMake code style
+[3.289s] -- Added test 'xmllint' to check XML markup files
+[3.293s] -- Configuring done (2.9s)
+[3.296s] -- Generating done (0.0s)
+[3.300s] -- Build files have been written to: /home/pinky/pinky_violet/build/pinky_navigation
+[3.318s] Invoked command in '/home/pinky/pinky_violet/build/pinky_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/pinky/pinky_violet/src/pinky_violet/pinky_navigation -DCMAKE_INSTALL_PREFIX=/home/pinky/pinky_violet/install/pinky_navigation
+[3.320s] Invoking command in '/home/pinky/pinky_violet/build/pinky_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/pinky/pinky_violet/build/pinky_navigation -- -j4 -l4
+[3.428s] Invoked command in '/home/pinky/pinky_violet/build/pinky_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/pinky/pinky_violet/build/pinky_navigation -- -j4 -l4
+[3.430s] Invoking command in '/home/pinky/pinky_violet/build/pinky_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/pinky/pinky_violet/build/pinky_navigation
+[3.455s] -- Install configuration: ""
+[3.455s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/launch
+[3.455s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/launch/nav2_view.launch.xml
+[3.457s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/launch/localization_launch.xml
+[3.457s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/launch/bringup_launch.xml
+[3.458s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/launch/navigation_launch.xml
+[3.458s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/params
+[3.458s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/params/nav2_params.yaml
+[3.459s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/map
+[3.459s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/map/pinklab.yaml
+[3.459s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/map/pinklab.pgm
+[3.462s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/rviz
+[3.462s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/rviz/nav2_view.rviz
+[3.464s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/ament_index/resource_index/package_run_dependencies/pinky_navigation
+[3.464s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/ament_index/resource_index/parent_prefix_path/pinky_navigation
+[3.465s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/environment/ament_prefix_path.sh
+[3.465s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/environment/ament_prefix_path.dsv
+[3.465s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/environment/path.sh
+[3.465s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/environment/path.dsv
+[3.466s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/local_setup.bash
+[3.466s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/local_setup.sh
+[3.466s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/local_setup.zsh
+[3.466s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/local_setup.dsv
+[3.466s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/package.dsv
+[3.467s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/ament_index/resource_index/packages/pinky_navigation
+[3.467s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/cmake/pinky_navigationConfig.cmake
+[3.467s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/cmake/pinky_navigationConfig-version.cmake
+[3.467s] -- Installing: /home/pinky/pinky_violet/install/pinky_navigation/share/pinky_navigation/package.xml
+[3.559s] Invoked command in '/home/pinky/pinky_violet/build/pinky_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pinky/pinky_violet/install/pinky_bringup:/home/pinky/pinky_violet/install/ros2_icm20948:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/pinky/pinky_violet/build/pinky_navigation

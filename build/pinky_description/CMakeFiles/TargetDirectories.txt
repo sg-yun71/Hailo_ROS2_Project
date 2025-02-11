@@ -1,0 +1,9 @@
+/home/pinky/pinky_violet/build/pinky_description/CMakeFiles/uninstall.dir
+/home/pinky/pinky_violet/build/pinky_description/CMakeFiles/pinky_description_uninstall.dir
+/home/pinky/pinky_violet/build/pinky_description/CMakeFiles/test.dir
+/home/pinky/pinky_violet/build/pinky_description/CMakeFiles/edit_cache.dir
+/home/pinky/pinky_violet/build/pinky_description/CMakeFiles/rebuild_cache.dir
+/home/pinky/pinky_violet/build/pinky_description/CMakeFiles/list_install_components.dir
+/home/pinky/pinky_violet/build/pinky_description/CMakeFiles/install.dir
+/home/pinky/pinky_violet/build/pinky_description/CMakeFiles/install/local.dir
+/home/pinky/pinky_violet/build/pinky_description/CMakeFiles/install/strip.dir
